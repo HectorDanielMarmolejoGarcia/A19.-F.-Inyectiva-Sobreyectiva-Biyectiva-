@@ -3,7 +3,7 @@
 % Descripcion    :determina el tipo de función que son de
 %                 acuerdo a las definiciones inyectiva, sobreyectiva y biyectiva.
 % Author         :Hector Daniel Marmoleo Garcia 
-% Date           :2021-11-15
+% Date           :2021-11-16
 % Version        :1
 % Usage          :octave> cd /path/
 %                :octave> ACT19Funcion3
